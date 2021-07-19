@@ -24,7 +24,7 @@ I have 3 years experience in website development
 <img align="left" alt="Mysql" src="https://user-images.githubusercontent.com/55610152/126078064-7f5a764b-e31a-486c-a259-4679401a8df3.png"  width="30" />
 <img  alt="Pgsql" src="https://user-images.githubusercontent.com/55610152/126078104-3ea716ba-7fde-4865-ae29-74a87007c88b.png"  width="30" />
 
-### My Frondend tools and language :
+### Frondend tools and language :
 
 <img align="left" alt="HTML" src="https://user-images.githubusercontent.com/55610152/126078289-5222d4a8-080c-4a11-ab80-06c84dc25cb8.png"  width="30" />
 <img align="left" alt="CSS" src="https://user-images.githubusercontent.com/55610152/126078448-b009169d-00c2-493e-981f-6bca8caeadb2.png"  width="20" />
