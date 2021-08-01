@@ -8,7 +8,7 @@ I have 3 years experience in website development
 
 [<img align="left" alt="Gmail" src="https://user-images.githubusercontent.com/55610152/126078601-07683e8b-4cb9-4973-98d1-5852f1879cfa.png"  width="30" />](mailto:aryarizky2303@gmail.com)
 [<img align="left" alt="Telegram" src="https://user-images.githubusercontent.com/55610152/126078607-d041161b-980c-45f3-a591-dd01dd1d01b9.png"  width="30" />](https://t.me/ary4k)
-[<img align="left" alt="Twitter" src="https://user-images.githubusercontent.com/55610152/126078678-bbafbf7a-a850-47fa-81be-1c45c7f4865a.png"  width="30" />](https://twitter.com/4ry4k)
+[<img align="left" alt="Twitter" src="https://user-images.githubusercontent.com/55610152/126078678-bbafbf7a-a850-47fa-81be-1c45c7f4865a.png"  width="30" />](https://twitter.com/susahsemangat)
 [<img  alt="Whatsapp" src="https://user-images.githubusercontent.com/55610152/126078605-7f2d9ac5-d39c-405b-b6ef-759628ecbd0d.png"  width="30" />](https://wa.me/6285707656364)
 
 
